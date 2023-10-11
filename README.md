@@ -50,6 +50,8 @@ To run the following sub-projects
       - The same machine can be copied to other code bases
     - designers adn product people can define requirements and flow graphically
       - programmers can just write the UIs to react to those states
+    - Visual editor in vsCode
+      - https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode
 
 ## Things I wanted to show but didn't have time
 
@@ -69,3 +71,5 @@ To run the following sub-projects
     - https://xstate.js.org/docs/guides/start.html#our-first-machine
   - The initial graph from the AI generation of schema
     - https://stately.ai/registry/editor/6ccc2d7b-6b7b-4450-b4b7-48705d356749?machineId=eaba9224-275d-473d-a372-e9269255ed8a
+- xState vs code extension for graphical editing of state in IDE
+  - https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode
